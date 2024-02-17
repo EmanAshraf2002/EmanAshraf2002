@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋! My name is Eman Ashraf Shawky </h2>
 
-<div align="center">
-
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+ <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=SoftWare%20Engineer ;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanAshraf2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"  height="150" alt="languages graph"  />
 </div>
